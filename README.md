@@ -21,3 +21,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alfiya-heba&show_icons=true&locale=en" alt="alfiya-heba" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alfiya-heba&" alt="alfiya-heba" /></p>
+![GitHub followers](https://img.shields.io/github/followers/Alfiya-heba?style=social)  
+![GitHub stars](https://img.shields.io/github/stars/your-Alfiya-heba?style=social)  
+![Profile views](https://komarev.com/ghpvc/?username=Alfiya-heba)  
+
